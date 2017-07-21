@@ -19,3 +19,13 @@ b.https://poychang.github.io/deploy-angular-to-iis-virtual-directory/
 npm install highcharts --save
 refer to:
 https://github.com/gevgeny/angular2-highcharts/issues/176
+https://www.highcharts.com/
+npm install angular2-highcharts --save
+refer to:
+https://www.npmjs.com/package/angular2-highcharts
+10.json-server
+npm install -g json-server
+refer to:
+https://github.com/typicode/json-server
+https://www.slideshare.net/WillHuangTW/use-json-server-as-a-fake-rest-api
+11.set 8000 to firewall on OS(ex:win10, server 2016...etc)
