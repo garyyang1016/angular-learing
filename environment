@@ -35,7 +35,7 @@ refer to:
 ng set --global packageManager=yarn
 ng set --global packageManager=npm
 https://yarnpkg.com/lang/en/docs/install/
-13.ng serve doesn't listen other than localhost
+13.ng serve doesn't listen other than localhost(server 2008)
 ng serve --host 0.0.0.0
 refer to:
 https://github.com/angular/angular-cli/issues/2375
