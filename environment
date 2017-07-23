@@ -39,3 +39,22 @@ https://yarnpkg.com/lang/en/docs/install/
 ng serve --host 0.0.0.0
 refer to:
 https://github.com/angular/angular-cli/issues/2375
+
+
+discussion:
+1.xml-->json
+npm install xml2js --save
+npm install xml2js -g
+refer to:
+https://stackoverflow.com/questions/42838285/angular2-convert-xml-to-json/42838970#42838970
+https://stackoverflow.com/questions/36368405/how-to-parse-xml-in-angular-2
+https://stackoverflow.com/questions/42838285/angular2-convert-xml-to-json
+https://forum.ionicframework.com/t/how-convert-xml-input-file-to-json/40759/17
+implentment:
+http://developer.telerik.com/featured/working-xml-data-nativescript-angular-2/
+http://www.it1me.com/it-answers?id=36368405&ttl=How+to+parse+xml+in+Angular+2
+2.http
+https://segmentfault.com/a/1190000007945217
+https://github.com/kittencup/angular2-ama-cn/issues/59
+http://gabriel0402.github.io/2016/01/18/angular-http-verification/
+http://asdfblog.com/angular2-server-communication.html
