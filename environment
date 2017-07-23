@@ -18,7 +18,6 @@ a.https://blog.miniasp.com/post/2017/01/17/Angular-2-deploy-on-IIS.aspx
 b.https://poychang.github.io/deploy-angular-to-iis-virtual-directory/
 9.highcharts
 npm install angular2-highcharts --save
-npm install highcharts --save <--XX
 refer to:
 https://github.com/gevgeny/angular2-highcharts/issues/176
 https://www.highcharts.com/
