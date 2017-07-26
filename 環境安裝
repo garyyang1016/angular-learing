@@ -50,6 +50,7 @@ discussion:
 npm install xml2js --save
 npm install xml2js -g
 refer to:
+http://masteringionic.com/blog/2016-12-18-parsing-xml-csv-and-tsv-files-with-ionic/
 https://stackoverflow.com/questions/42838285/angular2-convert-xml-to-json/42838970#42838970
 https://stackoverflow.com/questions/36368405/how-to-parse-xml-in-angular-2
 https://stackoverflow.com/questions/42838285/angular2-convert-xml-to-json
