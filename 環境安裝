@@ -101,3 +101,14 @@ HOW TO：從瀏覽器存取 XML Web Service
 https://msdn.microsoft.com/zh-tw/library/45fez2a8(v=vs.100).aspx
 若要在瀏覽器中使用 HTTP-GET 直接測試 Web 服務方法
 http://servername/vdir/webservicename.asmx/Methodname?parameter=value
+
+http://www.blueshop.com.tw/board/FUM20041006161839LRJ/BRD201204261028391V3.html
+http://172.24.120.94:8800/getdata/usageCount/CWUCWSManager?wsdl <-- 這是web service的位置
+
+在呼叫應該要有一個明確的名稱，例如
+http://172.24.120.94:8800/getdata/usageCount/exemethod
+這裡的exemethod就是方法的名稱
+
+如果要傳參數的話，就是在url後面帶參數
+http://172.24.120.94:8800/getdata/usageCount/exemethod?param1=xxx&param1=yyy&param2=zzz .......
+有多個參數時用&符號串起來
