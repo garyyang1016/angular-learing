@@ -112,3 +112,7 @@ http://172.24.120.94:8800/getdata/usageCount/exemethod
 如果要傳參數的話，就是在url後面帶參數
 http://172.24.120.94:8800/getdata/usageCount/exemethod?param1=xxx&param1=yyy&param2=zzz .......
 有多個參數時用&符號串起來
+
+autopulous-angular2-soap
+https://www.versioneye.com/nodejs/autopulous-angular2-soap/0.4.7
+https://www.npmjs.com/package/autopulous-angular2-soap
