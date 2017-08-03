@@ -65,8 +65,11 @@ https://github.com/kittencup/angular2-ama-cn/issues/59
 http://gabriel0402.github.io/2016/01/18/angular-http-verification/
 http://asdfblog.com/angular2-server-communication.html
 3.ng-bootstrap
+npm install bootstrap@4.0.0-alpha.6 --save
+npm install --save @ng-bootstrap/ng-bootstrap
 https://ng-bootstrap.github.io
 http://valor-software.com/ngx-bootstrap/#/
+https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-cli-project
 4.ng2-ui
 https://ng2-ui.github.io/dist/#/getting-started
 5.Angular Material
