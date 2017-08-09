@@ -6,3 +6,6 @@ tool:concurrently(angularcli+json-server)
 https://www.npmjs.com/package/concurrently
 
 https://dotblogs.com.tw/kinanson/2017/03/27/133103
+
+angular sample
+http://angularexpo.com/
