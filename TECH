@@ -19,3 +19,6 @@ https://damoqiongqiu.github.io/
 topcat 姍舞之間的極度凝聚
 [Angular 4][Login][登入][WebAPI]Angular 2/4 結合 WebAPI 的登入驗證機制範例
 https://dotblogs.com.tw/topcat/2017/07/12/115753
+
+修改 Chrome 瀏覽器安全性設定，解決網頁開發階段 Access-Control-Allow-Origin 問題
+https://blog.gtwang.org/web-development/chrome-configuration-for-access-control-allow-origin/
