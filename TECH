@@ -30,3 +30,6 @@ https://github.com/Inoverse/xmlToJsonTs
 https://davidwalsh.name/convert-xml-json
 
 https://long2know.com/2016/07/consuming-a-soap-service-using-httpclient/
+
+ng build --prod give Module not found
+https://github.com/angular/angular-cli/issues/5596
