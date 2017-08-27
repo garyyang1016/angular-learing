@@ -33,3 +33,9 @@ https://long2know.com/2016/07/consuming-a-soap-service-using-httpclient/
 
 ng build --prod give Module not found
 https://github.com/angular/angular-cli/issues/5596
+I am using lazy loading in my application and getting same error while creating production build.
+I was doing
+ng build --prod (giving error)
+
+but once I tried
+ng build --environment prod (it's working properly)
