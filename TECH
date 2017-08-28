@@ -44,3 +44,7 @@ ng build --environment prod (it's working properly)
 
 angular newest page
 https://www.angularjs4u.com/
+
+auth AD
+https://blogs.msdn.microsoft.com/premier_developer/2017/04/26/using-adal-with-angular2/
+https://auth0.com/blog/angular-2-authentication/
