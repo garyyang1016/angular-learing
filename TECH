@@ -41,3 +41,6 @@ ng build --prod (giving error)
 
 but once I tried
 ng build --environment prod (it's working properly)
+
+angular newest page
+https://www.angularjs4u.com/
